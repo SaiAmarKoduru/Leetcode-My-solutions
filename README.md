@@ -57,6 +57,7 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0013-roman-to-integer) |
 ## Array
 |  |
 | ------- |
@@ -64,9 +65,14 @@ These solutions are written for learning, interview preparation, and continuous 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
