@@ -58,6 +58,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | ------- |
 | [0009-palindrome-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -75,4 +76,13 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
