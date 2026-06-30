@@ -62,6 +62,7 @@ These solutions are written for learning, interview preparation, and continuous 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0067-add-binary) |
 ## Bit Manipulation
@@ -90,4 +92,8 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
