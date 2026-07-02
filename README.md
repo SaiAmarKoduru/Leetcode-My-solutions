@@ -66,6 +66,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0217-contains-duplicate) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -123,12 +125,22 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
