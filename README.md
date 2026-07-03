@@ -64,6 +64,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0217-contains-duplicate) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -138,6 +139,7 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0027-remove-element) |
 ## Graph Theory
 |  |
 | ------- |
