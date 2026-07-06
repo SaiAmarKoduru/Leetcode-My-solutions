@@ -68,6 +68,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0035-search-insert-position](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
+| [1288-remove-covered-intervals](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1288-remove-covered-intervals) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3620-network-recovery-pathways) |
@@ -80,6 +81,7 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0217-contains-duplicate) |
+| [1288-remove-covered-intervals](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1288-remove-covered-intervals) |
 ## String
 |  |
 | ------- |
