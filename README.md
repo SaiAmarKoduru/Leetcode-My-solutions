@@ -59,6 +59,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0009-palindrome-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0067-add-binary) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
 | ------- |
