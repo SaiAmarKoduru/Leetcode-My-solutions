@@ -60,6 +60,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0013-roman-to-integer](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0069-sqrtx) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
@@ -130,6 +131,7 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
