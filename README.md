@@ -62,6 +62,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0067-add-binary](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0070-climbing-stairs) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -81,6 +82,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [1288-remove-covered-intervals](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1288-remove-covered-intervals) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -91,6 +93,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | ------- |
 | [0013-roman-to-integer](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0217-contains-duplicate) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
@@ -145,6 +148,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0069-sqrtx](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3620-network-recovery-pathways) |
@@ -220,6 +224,7 @@ These solutions are written for learning, interview preparation, and continuous 
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
@@ -236,7 +241,16 @@ These solutions are written for learning, interview preparation, and continuous 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
