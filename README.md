@@ -161,6 +161,7 @@ These solutions are written for learning, interview preparation, and continuous 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0101-symmetric-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -222,6 +223,7 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0101-symmetric-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## String Matching
@@ -267,10 +269,12 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0101-symmetric-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
