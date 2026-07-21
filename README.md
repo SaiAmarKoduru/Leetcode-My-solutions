@@ -115,6 +115,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0058-length-of-last-word](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0067-add-binary) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation
 |  |
@@ -241,6 +242,7 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Memoization
 |  |
 | ------- |
