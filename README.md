@@ -76,6 +76,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0217-contains-duplicate) |
@@ -290,4 +291,8 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
