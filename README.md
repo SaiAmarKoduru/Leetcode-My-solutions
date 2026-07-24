@@ -113,6 +113,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0013-roman-to-integer](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0067-add-binary) |
@@ -216,6 +217,7 @@ These solutions are written for learning, interview preparation, and continuous 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0070-climbing-stairs) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -294,5 +296,6 @@ These solutions are written for learning, interview preparation, and continuous 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
