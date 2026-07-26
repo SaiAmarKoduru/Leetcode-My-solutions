@@ -62,6 +62,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0067-add-binary](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -83,6 +84,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0088-merge-sorted-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1288-remove-covered-intervals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -106,6 +108,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3536-maximum-product-of-two-digits) |
