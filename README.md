@@ -81,6 +81,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0049-group-anagrams) |
@@ -107,6 +108,7 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0217-contains-duplicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -219,6 +221,7 @@ These solutions are written for learning, interview preparation, and continuous 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0059-spiral-matrix-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
