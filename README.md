@@ -87,6 +87,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0039-combination-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0088-merge-sorted-array) |
@@ -358,6 +359,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0022-generate-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0051-n-queens) |
 ## Counting Sort
 |  |
 | ------- |
@@ -376,4 +378,8 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1406-stone-game-iii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
