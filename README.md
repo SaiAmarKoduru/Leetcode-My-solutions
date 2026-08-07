@@ -92,6 +92,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0059-spiral-matrix-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0486-predict-the-winner) |
@@ -162,6 +163,7 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
