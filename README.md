@@ -92,6 +92,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0059-spiral-matrix-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -344,6 +345,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0100-same-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0112-path-sum) |
@@ -355,6 +357,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0100-same-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0112-path-sum) |
@@ -397,4 +400,12 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0051-n-queens) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
