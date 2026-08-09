@@ -86,6 +86,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0035-search-insert-position](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0051-n-queens) |
@@ -377,6 +378,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | ------- |
 | [0022-generate-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0113-path-sum-ii) |
