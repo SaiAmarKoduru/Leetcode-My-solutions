@@ -381,6 +381,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0040-combination-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0113-path-sum-ii) |
 ## Counting Sort
 |  |
