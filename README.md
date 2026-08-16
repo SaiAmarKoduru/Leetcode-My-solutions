@@ -189,6 +189,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Trie
 |  |
@@ -304,6 +305,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0111-minimum-depth-of-binary-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3310-remove-methods-from-project) |
@@ -364,6 +366,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0111-minimum-depth-of-binary-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -376,6 +379,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0111-minimum-depth-of-binary-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
