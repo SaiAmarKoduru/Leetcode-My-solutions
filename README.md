@@ -62,6 +62,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0067-add-binary](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0486-predict-the-winner](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0877-stone-game) |
@@ -284,6 +285,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0022-generate-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -362,6 +364,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -376,6 +379,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -436,6 +440,7 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Sliding Window
 |  |
