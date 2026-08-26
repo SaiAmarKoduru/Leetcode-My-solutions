@@ -63,6 +63,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0069-sqrtx](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0096-unique-binary-search-trees) |
+| [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0877-stone-game) |
@@ -108,6 +109,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0169-majority-element](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -140,6 +142,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0169-majority-element](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -156,6 +159,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0088-merge-sorted-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -194,6 +198,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0067-add-binary](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
@@ -231,6 +236,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | ------- |
 | [0035-search-insert-position](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3312-sorted-gcd-pair-queries) |
