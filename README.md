@@ -140,6 +140,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0036-valid-sudoku](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -228,6 +229,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -289,6 +291,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -491,6 +494,7 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
