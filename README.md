@@ -109,6 +109,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0169-majority-element](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0486-predict-the-winner) |
@@ -159,6 +160,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0088-merge-sorted-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1288-remove-covered-intervals) |
@@ -483,6 +485,7 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0220-contains-duplicate-iii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -492,4 +495,12 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0169-majority-element) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
