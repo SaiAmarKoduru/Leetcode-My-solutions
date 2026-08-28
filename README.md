@@ -230,10 +230,12 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0486-predict-the-winner) |
 ## Binary Search
 |  |
