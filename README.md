@@ -216,6 +216,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Trie
@@ -230,11 +231,13 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0486-predict-the-winner) |
 ## Binary Search
@@ -294,6 +297,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0088-merge-sorted-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
