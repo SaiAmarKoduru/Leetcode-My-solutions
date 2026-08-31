@@ -112,6 +112,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0220-contains-duplicate-iii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -300,6 +301,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0141-linked-list-cycle](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0143-reorder-list) |
+| [0283-move-zeroes](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
