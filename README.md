@@ -114,6 +114,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0486-predict-the-winner](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0877-stone-game) |
@@ -364,6 +365,7 @@ These solutions are written for learning, interview preparation, and continuous 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0303-range-sum-query-immutable) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
@@ -518,4 +520,8 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0220-contains-duplicate-iii) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
