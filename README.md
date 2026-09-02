@@ -81,6 +81,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -137,6 +138,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [3718-smallest-missing-multiple-of-k](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
