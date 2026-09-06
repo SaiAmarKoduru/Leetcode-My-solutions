@@ -151,6 +151,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0141-linked-list-cycle](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
@@ -196,6 +197,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0067-add-binary](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0205-isomorphic-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
