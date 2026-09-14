@@ -68,6 +68,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1406-stone-game-iii) |
 | [1927-sum-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1927-sum-game) |
@@ -560,4 +561,8 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0303-range-sum-query-immutable) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
