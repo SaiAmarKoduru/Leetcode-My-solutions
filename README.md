@@ -122,6 +122,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0877-stone-game) |
@@ -165,6 +166,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -187,6 +189,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0242-valid-anagram](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1288-remove-covered-intervals) |
@@ -283,6 +286,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -339,6 +343,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0283-move-zeroes](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph Theory
