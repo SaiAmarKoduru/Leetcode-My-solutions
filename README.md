@@ -167,6 +167,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0290-word-pattern](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -219,6 +220,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0242-valid-anagram](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0389-find-the-difference) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1927-sum-game) |
@@ -449,6 +451,7 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0383-ransom-note) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
