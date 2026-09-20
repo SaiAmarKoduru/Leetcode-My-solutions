@@ -228,6 +228,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -249,6 +250,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0059-spiral-matrix-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
