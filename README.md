@@ -123,6 +123,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0303-range-sum-query-immutable](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0877-stone-game) |
@@ -192,6 +193,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0349-intersection-of-two-arrays](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
