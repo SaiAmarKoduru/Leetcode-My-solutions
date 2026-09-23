@@ -67,6 +67,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0171-excel-sheet-column-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0486-predict-the-winner](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0836-rectangle-overlap) |
@@ -226,6 +227,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0383-ransom-note](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -246,6 +248,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
