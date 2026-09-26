@@ -173,6 +173,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0389-find-the-difference) |
+| [1096-brace-expansion-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1096-brace-expansion-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -198,6 +199,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0389-find-the-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -231,6 +233,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0392-is-subsequence](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1096-brace-expansion-ii) |
 | [1927-sum-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -268,6 +271,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0143-reorder-list](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1096-brace-expansion-ii) |
 ## Trie
 |  |
 | ------- |
@@ -314,6 +318,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0112-path-sum) |
+| [1096-brace-expansion-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -526,6 +531,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0095-unique-binary-search-trees-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1096-brace-expansion-ii) |
 ## Counting Sort
 |  |
 | ------- |
