@@ -305,6 +305,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0035-search-insert-position](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -611,4 +612,8 @@ These solutions are written for learning, interview preparation, and continuous 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
