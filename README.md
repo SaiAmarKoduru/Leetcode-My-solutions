@@ -231,6 +231,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0242-valid-anagram](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0389-find-the-difference) |
@@ -336,6 +337,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -553,6 +555,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0095-unique-binary-search-trees-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1096-brace-expansion-ii) |
 ## Counting Sort
 |  |
