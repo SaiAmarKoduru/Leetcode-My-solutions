@@ -245,6 +245,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [1096-brace-expansion-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -291,6 +292,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [1096-brace-expansion-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
@@ -463,6 +465,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0678-valid-parenthesis-string](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -641,6 +644,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [1021-remove-outermost-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Interactive
 |  |
