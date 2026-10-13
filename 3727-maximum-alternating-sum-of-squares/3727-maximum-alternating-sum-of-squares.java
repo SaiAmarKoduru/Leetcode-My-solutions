@@ -14,12 +14,12 @@ class Solution {
         int negativeCount = n / 2;
         long score = 0;
 
-        // Subtract the smallest floor(n / 2) squares.
+        
         for (int i = 0; i < negativeCount; i++) {
             score -= squares[i];
         }
 
-        // Add the remaining, largest squares.
+        
         for (int i = negativeCount; i < n; i++) {
             score += squares[i];
         }
