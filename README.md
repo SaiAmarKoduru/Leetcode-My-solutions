@@ -140,6 +140,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [2778-sum-of-squares-of-special-elements](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -182,6 +183,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1096-brace-expansion-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1096-brace-expansion-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -562,6 +564,7 @@ These solutions are written for learning, interview preparation, and continuous 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Backtracking
 |  |
@@ -666,4 +669,8 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0278-first-bad-version) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
