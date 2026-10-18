@@ -73,6 +73,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0836-rectangle-overlap](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1406-stone-game-iii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1927-sum-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -134,6 +135,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [1288-remove-covered-intervals](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1288-remove-covered-intervals) |
 | [1406-stone-game-iii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -368,6 +370,7 @@ These solutions are written for learning, interview preparation, and continuous 
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -441,6 +444,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0678-valid-parenthesis-string](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1406-stone-game-iii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3620-network-recovery-pathways) |
@@ -505,6 +509,7 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0070-climbing-stairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Number Theory
 |  |
 | ------- |
@@ -516,6 +521,7 @@ These solutions are written for learning, interview preparation, and continuous 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
@@ -544,6 +550,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0113-path-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0257-binary-tree-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -562,6 +569,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0113-path-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0257-binary-tree-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -617,6 +625,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0169-majority-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -625,6 +634,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0099-recover-binary-search-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sliding Window
 |  |
 | ------- |
@@ -680,4 +690,8 @@ These solutions are written for learning, interview preparation, and continuous 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
