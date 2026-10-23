@@ -159,6 +159,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3620-network-recovery-pathways](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3620-network-recovery-pathways) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3731-find-missing-elements) |
@@ -293,6 +294,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Simulation
 |  |
 | ------- |
