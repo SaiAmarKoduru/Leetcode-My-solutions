@@ -76,6 +76,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1927-sum-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -272,6 +273,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
