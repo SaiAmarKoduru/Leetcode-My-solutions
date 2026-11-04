@@ -135,6 +135,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0877-stone-game) |
@@ -201,6 +202,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0383-ransom-note](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0496-next-greater-element-i) |
 | [1096-brace-expansion-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1096-brace-expansion-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -328,6 +330,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0094-binary-tree-inorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -619,6 +622,7 @@ These solutions are written for learning, interview preparation, and continuous 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
 |  |
