@@ -149,6 +149,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [2089-find-target-indices-after-sorting-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -205,6 +206,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0496-next-greater-element-i) |
 | [1096-brace-expansion-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1096-brace-expansion-ii) |
+| [2747-count-zero-request-servers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -242,6 +244,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -697,6 +700,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0220-contains-duplicate-iii) |
+| [2747-count-zero-request-servers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Floyd's Cycle Finding Algorithm
 |  |
