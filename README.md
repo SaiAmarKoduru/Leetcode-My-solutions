@@ -516,6 +516,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0113-path-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0572-subtree-of-another-tree) |
 | [1254-number-of-closed-islands](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -526,6 +527,7 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -605,6 +607,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0113-path-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0572-subtree-of-another-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
@@ -625,6 +628,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0113-path-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0257-binary-tree-paths) |
+| [0572-subtree-of-another-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0572-subtree-of-another-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Monotonic Stack
 |  |
@@ -756,4 +760,8 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
