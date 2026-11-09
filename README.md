@@ -137,6 +137,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0877-stone-game) |
@@ -238,6 +239,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0389-find-the-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1096-brace-expansion-ii) |
@@ -421,6 +423,7 @@ These solutions are written for learning, interview preparation, and continuous 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
