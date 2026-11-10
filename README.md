@@ -67,6 +67,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0168-excel-sheet-column-title](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -315,6 +316,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0067-add-binary](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0389-find-the-difference) |
@@ -372,6 +374,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0021-merge-two-sorted-lists](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
