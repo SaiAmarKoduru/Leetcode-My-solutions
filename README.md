@@ -316,6 +316,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0067-add-binary](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -697,6 +698,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0190-reverse-bits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
