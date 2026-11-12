@@ -160,6 +160,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
