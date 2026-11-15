@@ -136,6 +136,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0414-third-maximum-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0463-island-perimeter](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0506-relative-ranks) |
@@ -408,6 +409,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0111-minimum-depth-of-binary-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0463-island-perimeter](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0463-island-perimeter) |
 | [1096-brace-expansion-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -442,6 +444,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | ------- |
 | [0036-valid-sudoku](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0463-island-perimeter](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1254-number-of-closed-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -529,6 +532,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0113-path-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0257-binary-tree-paths) |
+| [0463-island-perimeter](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0572-subtree-of-another-tree) |
 | [1254-number-of-closed-islands](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
