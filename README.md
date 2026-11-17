@@ -285,6 +285,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0290-word-pattern](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0290-word-pattern) |
 | [0301-remove-invalid-parentheses](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0392-is-subsequence) |
@@ -469,6 +470,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0283-move-zeroes](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0392-is-subsequence) |
