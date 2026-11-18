@@ -325,6 +325,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0231-power-of-two](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -507,6 +508,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0338-counting-bits](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0678-valid-parenthesis-string) |
