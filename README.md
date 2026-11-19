@@ -135,6 +135,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0486-predict-the-winner) |
@@ -211,6 +212,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0383-ransom-note](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0496-next-greater-element-i) |
 | [1096-brace-expansion-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1096-brace-expansion-ii) |
 | [2747-count-zero-request-servers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2747-count-zero-request-servers) |
