@@ -541,6 +541,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0144-binary-tree-preorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0572-subtree-of-another-tree) |
 | [1254-number-of-closed-islands](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -633,6 +634,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0113-path-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -655,6 +657,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0113-path-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -800,4 +803,8 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
