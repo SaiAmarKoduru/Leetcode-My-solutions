@@ -144,6 +144,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0561-array-partition](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0877-stone-game) |
+| [1046-last-stone-weight](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1288-remove-covered-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -439,6 +440,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | ------- |
 | [0506-relative-ranks](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
