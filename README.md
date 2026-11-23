@@ -75,6 +75,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1406-stone-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1927-sum-game](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1927-sum-game) |
@@ -147,6 +148,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [1046-last-stone-weight](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1288-remove-covered-intervals) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -561,6 +563,7 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -766,6 +769,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Geometry
 |  |
 | ------- |
@@ -806,6 +810,7 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## DP on Trees
 |  |
 | ------- |
