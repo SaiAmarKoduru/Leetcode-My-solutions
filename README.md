@@ -140,6 +140,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0486-predict-the-winner) |
+| [0495-teemo-attacking](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0561-array-partition) |
@@ -344,6 +345,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0067-add-binary) |
+| [0495-teemo-attacking](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0495-teemo-attacking) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3498-reverse-degree-of-a-string) |
