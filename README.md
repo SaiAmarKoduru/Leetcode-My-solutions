@@ -139,6 +139,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0455-assign-cookies](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0495-teemo-attacking) |
@@ -250,6 +251,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0389-find-the-difference](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -486,6 +488,7 @@ These solutions are written for learning, interview preparation, and continuous 
 | [0349-intersection-of-two-arrays](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -576,6 +579,7 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -819,4 +823,8 @@ These solutions are written for learning, interview preparation, and continuous 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SaiAmarKoduru/Leetcode-My-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
